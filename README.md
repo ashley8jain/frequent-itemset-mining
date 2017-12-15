@@ -1,3 +1,9 @@
-Implement the Apriori Algorithm to mine frequent itemsets. 
-Applied it on the Dataset: http://fimi.ua.ac.be/data/retail.dat. 
-Details about the dataset can be found at http://fimi.ua.ac.be/data/retail.pdf
+## Frequent ItemSet Mining
+#### Implement the Apriori Algorithm to mine frequent itemsets. 
+* Applied on the Dataset: http://fimi.ua.ac.be/data/retail.dat. 
+* Details about the dataset: http://fimi.ua.ac.be/data/retail.pdf
+* Command to execute
+```
+$ ./compile.sh
+$ ./run.sh retial.dat <support threshold in %>
+```
